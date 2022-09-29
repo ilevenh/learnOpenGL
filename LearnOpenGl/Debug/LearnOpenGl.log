@@ -1,0 +1,17 @@
+﻿  {{xgTaskID=00000004}}
+  glad.c
+  {{xgTaskID=00000000}}
+  {{xgTaskID=00000006}}
+  homeworkbase.cpp
+  {{xgTaskID=00000000}}
+  {{xgTaskID=00000008}}
+  window.cpp
+  {{xgTaskID=00000000}}
+  {{xgTaskID=00000007}}
+  test.cpp
+h:\vs_workspace\learnopengl\learnopengl\01draw2triangles.h(69): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  {{xgTaskID=00000000}}
+  {{xgTaskID=00000009}}
+  
+  {{xgTaskID=00000000}}
+  LearnOpenGl.vcxproj -> H:\vs_workspace\LearnOpenGl\Debug\LearnOpenGl.exe
